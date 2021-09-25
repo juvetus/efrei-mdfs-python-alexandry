@@ -7,6 +7,10 @@ Simple API using Django for creating books
 in a RESTful API, endpoints(URLs) define the structure of the API and how end users access data from our application
 using the HTTP methods -GET, POST,PUT,DELETE.
 
+# Installation
+* Clone the repo: https://github.com/juvetus/efrei-mdfs-python-alexandry.git
+* Run python manage.py runserver
+
 ---------------------------------------------------------------------------------------------------------------
 Endpoint    | HTTP Method
 ----------- |------------
